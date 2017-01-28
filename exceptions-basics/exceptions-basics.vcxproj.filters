@@ -5,5 +5,6 @@
     <ClCompile Include="src\s02-exceptions\002-exceptions-basics.cpp" />
     <ClCompile Include="src\s02-exceptions\003-standard-exceptions.cpp" />
     <ClCompile Include="src\s02-exceptions\004-custom-exceptions.cpp" />
+    <ClCompile Include="src\s02-exceptions\005-exception-catching-order.cpp" />
   </ItemGroup>
 </Project>
