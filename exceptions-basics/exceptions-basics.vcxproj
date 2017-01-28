@@ -14,6 +14,7 @@
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\s02-exceptions\002-exceptions-basics.cpp" />
     <ClCompile Include="src\s02-exceptions\003-standard-exceptions.cpp" />
+    <ClCompile Include="src\s02-exceptions\004-custom-exceptions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{287876F1-0C76-4ADB-A404-5EC6DABFF8F6}</ProjectGuid>
