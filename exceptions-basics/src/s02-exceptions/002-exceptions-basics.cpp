@@ -3,8 +3,8 @@ using namespace std;
 
 void mightGoWrong()
 {
-	auto error0 = false;
-	auto error1 = true;
+	bool error0 = false;
+	bool error1 = true;
 
 	if (error0)
 	{
@@ -17,6 +17,7 @@ void mightGoWrong()
 	}
 }
 
+// Exceptions are thrown through stacks.
 void usesMightGoWrong()
 {
 	mightGoWrong();
