@@ -20,8 +20,9 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{287876F1-0C76-4ADB-A404-5EC6DABFF8F6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>exceptionsbasics</RootNamespace>
+    <RootNamespace>exceptions</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>exceptions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
