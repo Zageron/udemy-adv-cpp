@@ -25,7 +25,7 @@ void customExceptions()
 	{
 		Test::GoesWrong();
 	}
-	catch (MyException &e)
+	catch (MyException& e)
 	{
 		cout << "Caught Exception: " << e.what() << endl;
 	}

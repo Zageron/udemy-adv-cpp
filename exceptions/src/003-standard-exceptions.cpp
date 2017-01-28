@@ -7,7 +7,7 @@ public:
 	CanGoWrong()
 	{
 		_ULonglong badSize = 999999999999 * 9999;
-		char *pMemory = new char[badSize];
+		char* pMemory = new char[badSize];
 		delete[] pMemory;
 	}
 };
@@ -19,7 +19,7 @@ void standardExceptions()
 	{
 		CanGoWrong wrong;
 	}
-	catch (bad_alloc &e)
+	catch (bad_alloc& e)
 	{
 		cout << "Caught exception: " << e.what() << endl;
 	}

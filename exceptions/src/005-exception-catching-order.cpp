@@ -24,12 +24,12 @@ void exceptionCatchingOrder()
 	{
 		goesWrong();
 	}
-	catch (bad_alloc &e)
+	catch (bad_alloc& e)
 	{
 		cout << "Caught Exception: " << e.what() << endl;
 	}
 	// Subclasses must come before the parent class in exceptions.
-	catch (exception &e)
+	catch (exception& e)
 	{
 		cout << "Caught Exception: " << e.what() << endl;
 	}
