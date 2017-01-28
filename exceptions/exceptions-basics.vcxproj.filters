@@ -2,9 +2,9 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\s02-exceptions\002-exceptions-basics.cpp" />
-    <ClCompile Include="src\s02-exceptions\003-standard-exceptions.cpp" />
-    <ClCompile Include="src\s02-exceptions\004-custom-exceptions.cpp" />
-    <ClCompile Include="src\s02-exceptions\005-exception-catching-order.cpp" />
+    <ClCompile Include="src\005-exception-catching-order.cpp" />
+    <ClCompile Include="src\002-exceptions-basics.cpp" />
+    <ClCompile Include="src\003-standard-exceptions.cpp" />
+    <ClCompile Include="src\004-custom-exceptions.cpp" />
   </ItemGroup>
 </Project>
