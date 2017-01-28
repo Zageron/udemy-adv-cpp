@@ -3,5 +3,6 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\s02-exceptions\002-exceptions-basics.cpp" />
+    <ClCompile Include="src\s02-exceptions\003-standard-exceptions.cpp" />
   </ItemGroup>
 </Project>
