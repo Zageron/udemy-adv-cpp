@@ -3,5 +3,9 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\006-writing-text-files.cpp" />
+    <ClCompile Include="src\007-reading-text-files.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="resources\test.txt" />
   </ItemGroup>
 </Project>
