@@ -6,6 +6,7 @@
     <ClCompile Include="src\007-reading-text-files.cpp" />
     <ClCompile Include="src\008-parsing-text-files.cpp" />
     <ClCompile Include="src\009-structs-and-padding.cpp" />
+    <ClCompile Include="src\010-reading-and-writing-binary-files.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="resources\test.txt" />
