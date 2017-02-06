@@ -11,4 +11,7 @@
     <Text Include="resources\test.txt" />
     <Text Include="resources\stats.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\009-structs-and-padding.h" />
+  </ItemGroup>
 </Project>
