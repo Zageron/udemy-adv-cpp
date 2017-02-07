@@ -5,5 +5,6 @@
     <ClCompile Include="src\011-vectors.cpp" />
     <ClCompile Include="src\012-vectors-and-memory.cpp" />
     <ClCompile Include="src\013-two-dimensional-vectors.cpp" />
+    <ClCompile Include="src\014-lists.cpp" />
   </ItemGroup>
 </Project>
